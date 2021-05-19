@@ -1,0 +1,1 @@
+This is a small program to help you determine the correct order of fights in team nominations of tournaments. To use it, download the archive, unzip it and run Secretary.html. After that, a page with the program will open in a new tab of your browser. Click "новый бой", enter the names of the fighters under the boring numbers and click "начать бой" 
